@@ -1,0 +1,14 @@
+{
+  "exchanges": {
+    "binance": {
+      "ws_url": "wss://stream.binance.com:9443/ws",
+      "pair": "btcusdt"
+    },
+    "coinbase": {
+      "ws_url": "wss://ws-feed.exchange.coinbase.com",
+      "pair": "BTC-USD"
+    }
+  },
+  "runtime_minutes": 3,
+  "initial_balance": 100.0
+}

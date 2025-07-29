@@ -1,0 +1,7 @@
+websockets
+aiohttp
+requests
+pandas
+python-dotenv
+ccxt
+ccxtpro
